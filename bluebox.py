@@ -49,7 +49,7 @@ N = '\033[0m'
 # ============================================================
 #  KONFIGURASI
 # ============================================================
-GEMINI_API_KEY = "YOUR_GEMINI_API_KEY_HERE"
+GEMINI_API_KEY = "AQ.Ab8RN6LJRYzjmm5oKqxRcPQw4Gz1cuMOGHOA04rPu-9qrfpEtQ"
 GEMINI_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={GEMINI_API_KEY}"
 
 # ============================================================
